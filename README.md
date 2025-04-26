@@ -49,7 +49,7 @@
 ## 📬 Контакты
 
 - 📧 Email: [zolotuxin.alexey@gmail.com] 
-- 💬 Telegram: [@AZVXAN](https://t.me/AZVXAN)
+- 💬 Telegram: @AZVXAN (https://t.me/AZVXAN)
 - 🌐 LinkedIn: [ссылка-профиль](https://linkedin.com/in/твоя-ссылка)
 - 🔗 Портфолио: [ссылка на сайт](https://твоя-ссылка.com) *(если есть)*
 
