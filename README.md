@@ -40,9 +40,9 @@
 
 | Название проекта | Описание | Технологии |
 |:-----------------|:---------|:-----------|
-| **[complete-site](https://github.com/Z01coder/complete-site)** | Краткое описание проекта в 1-2 предложениях | Python, Django |
-| **[Название проекта]** | Что делает проект, для кого он | React, Django REST API |
-| **[Название проекта]** | Ещё один интересный проект, можно с ссылкой | Telegram Bot, PostgreSQL |
+| **[Flower-shop-service](https://github.com/Z01coder/Flower-shop-service)** | Project of a website-store for the sale and delivery of flower bouquets | Python, Django, Bootstrap, SQLite, Pytest, python-telegram-bot |
+| **[Who-is-that-pokemon-TG-bot](https://github.com/Z01coder/Who-is-that-pokemon-TG-bot)** | Что делает проект, для кого он | React, Django REST API |
+| **[Debuger-game](https://github.com/Z01coder/Debuger-game)** | Ещё один интересный проект, можно с ссылкой | Telegram Bot, PostgreSQL |
 
 📂 [Смотреть все мои проекты](https://github.com/Z01coder?tab=repositories)
 
