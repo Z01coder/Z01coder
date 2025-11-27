@@ -41,7 +41,7 @@
 | Название проекта | Описание | Технологии |
 |:-----------------|:---------|:-----------|
 | **[Flower-shop-service](https://github.com/Z01coder/Flower-shop-service)** | Project of a website-store for the sale and delivery of flower bouquets | Python, Django, Bootstrap, SQLite, Pytest, python-telegram-bot |
-| **[Who-is-that-pokemon-TG-bot](https://github.com/Z01coder/Who-is-that-pokemon-TG-bot)** | Telegram bot that uses PokeAPI | Python, Aiogram, Aiohhtp, PokeAPI |
+| **[Django Film Manager](https://github.com/Z01coder/Simpliest-Django-item-list)** | A simple Django application for managing the movie list | Python, Django, Bootstrap, SQLite |
 | **[Debuger-game](https://github.com/Z01coder/Debuger-game)** | Funny arcade game created with a Pygame library | Python, Pygame |
 
 📂 [Смотреть все мои проекты](https://github.com/Z01coder?tab=repositories)
